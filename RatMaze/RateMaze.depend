@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1529126007 source:c:\users\riki_\desktop\learning\comp2160\assignment2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1529276523 source:c:\users\riki_\desktop\learning\comp2160\assignment2\maze_start.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590358148 source:c:\users\riki_\desktop\learning\comp2160\ratmaze\maze_start.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
